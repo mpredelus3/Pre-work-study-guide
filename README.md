@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - I got tired of wrtiting notes with a pen and paper.
 - This study guide was created to in order to easily access notes for the coding bootcamp.
 - the webpage keeps all of my bootcamp notes organized and takes away the effort of having to decipher my own handwriting on paper.
